@@ -27,12 +27,12 @@ Tools yang digunakan :
 
 Struktur Folder :
 tracking_task/
-├── config/          # Konfigurasi database
-├── pages/index.php  # Halaman aplikasi/halaman utama
-├── process/         # Proses CRUD
-├── assets/          # CSS dan JavaScript
-├── sql/             # File database.sql
-└── README.md
+* config/          # Konfigurasi database
+* pages/index.php  # Halaman aplikasi/halaman utama
+* process/         # Proses CRUD
+* assets/          # CSS dan JavaScript
+* sql/             # File database.sql
+* README.md
 
 Struktur Database :
 terdapat 3 tabel yaitu..
